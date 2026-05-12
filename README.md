@@ -16,7 +16,7 @@
   <samp>
     <h3 style="color: #E63946 !important;">━━━ <span style="color: #E63946;">Skills</span> ━━━</h3>
   </samp>
-    <img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,github&theme=dark" />
   
 </div>
 
