@@ -21,6 +21,8 @@
 
 ##
 
-<img src="GitHub-logo.gif" height="180px" style="filter: hue-rotate(340deg) brightness(1.1) saturate(1.8);" />
+<div align="center">
+  <img src="cute.gif" height="180px" style="filter: hue-rotate(340deg) brightness(1.1) saturate(1.8);" />
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AE23EB&height=100&section=footer"/>
