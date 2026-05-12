@@ -11,6 +11,7 @@
   </samp>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=becsnr&theme=tokyonight" height="200"/> 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=becsnr&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=becsnr&layout=compact&theme=tokyonight" height="180em"/>
 
   <samp>
     <h3 style="color: #E63946 !important;">━━━ <span style="color: #E63946;">Skills</span> ━━━</h3>
